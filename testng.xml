@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<suite name="futureloan">
+    <test name="登录测试">
+        <classes>
+            <class name="com.charles.runner.CharlesRunner"/>
+        </classes>
+    </test>
+</suite>

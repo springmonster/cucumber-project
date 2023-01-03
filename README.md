@@ -2,7 +2,8 @@
 
 ## Cucumber Java
 
-- expression
+- [Expressions](https://github.com/cucumber/cucumber-expressions#readme)
+- [DataTables](https://github.com/cucumber/cucumber-jvm/tree/main/datatable)
 
 ## Cucumber TestNG
 

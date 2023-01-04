@@ -9,7 +9,8 @@ import io.cucumber.testng.CucumberOptions;
 //        "src/test/resources/testandbut.feature",
 //        "src/test/resources/background.feature",
 //        "src/test/resources/arguments.feature",
-        "src/test/resources/list.feature",
+//        "src/test/resources/list.feature",
+        "src/test/resources/transformer.feature",
 },
         glue = "com.charles.steps", monochrome = true)
 public class CharlesRunner extends AbstractTestNGCucumberTests {
